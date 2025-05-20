@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Checkers_Dll", "Checkers_Dll.vcxproj", "{B79CFF2F-1B7D-4E1A-BF5B-C9E1999C12F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79CFF2F-1B7D-4E1A-BF5B-C9E1999C12F3}.Debug|x86.ActiveCfg = Release|Win32
+		{B79CFF2F-1B7D-4E1A-BF5B-C9E1999C12F3}.Debug|x86.Build.0 = Release|Win32
+		{B79CFF2F-1B7D-4E1A-BF5B-C9E1999C12F3}.Release|x86.ActiveCfg = Release|Win32
+		{B79CFF2F-1B7D-4E1A-BF5B-C9E1999C12F3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3E62AA-9D81-424C-8F8D-802D7F671A1F}
+	EndGlobalSection
+EndGlobal
